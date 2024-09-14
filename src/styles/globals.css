@@ -6,3 +6,11 @@
   font-family: "Orbitron";
   src: url("../../public/fonts/orbitron.ttf");
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #000000;
+}
